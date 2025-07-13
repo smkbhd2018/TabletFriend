@@ -25,6 +25,7 @@ Here's what Tablet Friend can do:
 - Chain any number of actions.
 - Use over 4000 built-in vector icons from [https://materialdesignicons.com](https://materialdesignicons.com) or arbitrary png icons.
 - Dock the toolbar to the side or on top.
+- Hide or show the toolbar with a customizable hotkey.
 - Simply look nice. :)
 
 
