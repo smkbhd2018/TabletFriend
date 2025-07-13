@@ -19,8 +19,9 @@ namespace TabletFriend
 		public bool FirstLaunch = true;
 
 		public bool UpdateCheckingEnabled = true;
-		public bool ToolbarAutohideEnabled = true;
-		public bool PerAppLayoutsEnabled = true;
+                public bool ToolbarAutohideEnabled = true;
+                public bool PerAppLayoutsEnabled = true;
+                public string ToggleHotkey = "f8";
 
 		public Settings()
 		{

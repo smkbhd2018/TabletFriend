@@ -50,7 +50,8 @@ namespace TabletFriend
 
 			_file = new FileManager();
 
-			ToggleManager.Init();
+                        ToggleManager.Init();
+                        ShortcutManager.Init();
 
 			_theme = new ThemeManager();
 			_layout = new LayoutManager();

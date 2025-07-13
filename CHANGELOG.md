@@ -1,6 +1,7 @@
 # [Changelog](http://keepachangelog.com/en/1.0.0/):
 
 ## [Unreleased]
+- Added `toggle_hotkey` setting that allows hiding or showing the toolbar with a keyboard shortcut.
 
 ## [v2.0.0] - 25.10.2023
 
